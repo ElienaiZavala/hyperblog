@@ -1,0 +1,2 @@
+Este es un ejemplo de un archivo.
+Este contiene la historia de versiones de mi codigo.
