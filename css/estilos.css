@@ -2,3 +2,12 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
+.container {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+  background-color: #fff;
+  color: #4d4d4d;
+}
