@@ -1,6 +1,7 @@
 body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
 }
 .container {
   width: 100%;
@@ -10,4 +11,12 @@ body {
   box-sizing: border-box;
   background-color: #fff;
   color: #4d4d4d;
+}
+
+.cabecera {
+  display: block;
+  font-weight: bold;
+  color: #3b0000;
+  font-size: 2rem;
+  margin-bottom: 20px;
 }
